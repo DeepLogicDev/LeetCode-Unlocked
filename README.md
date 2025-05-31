@@ -23,36 +23,36 @@ Each problem is organized into its own folder with:
 # 🧩 Featured Topics
 We cover a variety of topics including:
 
-Arrays
-Two Sum, Container With Most Water
-Strings
-Longest Substring Without Repeats, Palindrome Checker
-Hashing
-Valid Anagram, Group Anagrams
-Sliding Window
-Minimum Window Substring
-Two Pointers
-Remove Duplicates from Sorted Array
-Binary Search
-Find First and Last Position, Peak Element
-Linked Lists
-Reverse List, Middle of the List
-Stacks / Queues
-Valid Parentheses, Min Stack
-Trees
-Inorder Traversal, Level Order Traversal
-DFS / BFS
-Number of Islands, Word Ladder
-Dynamic Programming
-Climbing Stairs, House Robber
-Greedy
-Jump Game, Assign Cookies
-Graphs
-Course Schedule, Clone Graph
-Backtracking
-Subsets, Permutations
-Heap / Priority Queue
-Kth Largest Element, Merge k Sorted Lists
+<br>Arrays
+<br>Two Sum, Container With Most Water
+<br>Strings
+<br>Longest Substring Without Repeats, Palindrome Checker
+<br>Hashing
+<br>Valid Anagram, Group Anagrams
+<br>Sliding Window
+<br>Minimum Window Substring
+<br>Two Pointers
+<br>Remove Duplicates from Sorted Array
+<br>Binary Search
+<br>Find First and Last Position, Peak Element
+<br>Linked Lists
+<br>Reverse List, Middle of the List
+<br>Stacks / Queues
+<br>Valid Parentheses, Min Stack
+<br>Trees
+<br>Inorder Traversal, Level Order Traversal
+<br>DFS / BFS
+<br>Number of Islands, Word Ladder
+<br>Dynamic Programming
+<br>Climbing Stairs, House Robber
+<br>Greedy
+<br>Jump Game, Assign Cookies
+<br>Graphs
+<br>Course Schedule, Clone Graph
+<br>Backtracking
+<br>Subsets, Permutations
+<br>Heap / Priority Queue
+<br>Kth Largest Element, Merge k Sorted Lists
 
 # 🛠️ Tech Stack
 <br>🐍 Python
