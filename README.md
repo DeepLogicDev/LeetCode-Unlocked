@@ -1,7 +1,8 @@
 # 🚀 Leetcode Unlocked
 A curated collection of well-explained LeetCode problems with step-by-step solutions and clean code in Python , C++ , and sometimes Java . This repo is designed to help you unlock the logic behind LeetCode problems , improve your coding skills, and prepare effectively for technical interviews.
 
-# 🎯 Goal : To understand how to approach each problem, not just memorize the solution.
+# 🎯 Goal
+To understand how to approach each problem, not just memorize the solution.
 
 # ✅ Problem Description
 🧠 Step-by-step Explanation
