@@ -55,12 +55,13 @@ Heap / Priority Queue
 Kth Largest Element, Merge k Sorted Lists
 
 # 🛠️ Tech Stack
-🐍 Python 
-🟠 C++ 
-☕ Java 
-🌐 Markdown for documentation
-📊 GitHub for version control
-🌟 Why This Repo?
+<br>🐍 Python
+<br>🟠 C++ 
+<br>☕ Java 
+<br>🌐 Markdown for documentation
+<br>📊 GitHub for version control
+
+# 🌟 Why This Repo?
 This isn't just another LeetCode dump. Each solution is carefully explained so you can learn why we do what we do. Whether you're preparing for FAANG interviews or brushing up on algorithms, this repo will help you think like a problem solver.
 
 # 🙌 Contributions
