@@ -3,9 +3,6 @@ A curated collection of well-explained LeetCode problems with step-by-step solut
 
 # 🎯 Goal : To understand how to approach each problem, not just memorize the solution.
 
-# 📁 Structure
-Each problem is organized into its own folder with:
-
 # ✅ Problem Description
 🧠 Step-by-step Explanation
 💡 Intuition & Approach
